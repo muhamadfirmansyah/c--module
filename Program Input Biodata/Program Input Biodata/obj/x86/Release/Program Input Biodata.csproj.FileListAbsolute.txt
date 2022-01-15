@@ -1,0 +1,4 @@
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Program Input Biodata\Program Input Biodata\bin\Release\Program Input Biodata.exe
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Program Input Biodata\Program Input Biodata\bin\Release\Program Input Biodata.pdb
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Program Input Biodata\Program Input Biodata\obj\x86\Release\Program Input Biodata.exe
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Program Input Biodata\Program Input Biodata\obj\x86\Release\Program Input Biodata.pdb

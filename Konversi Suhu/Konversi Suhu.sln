@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konversi Suhu", "Konversi Suhu\Konversi Suhu.csproj", "{34B8522F-63CC-4D78-B8D0-6C1C502CD0C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program Input Biodata", "..\Program Input Biodata\Program Input Biodata\Program Input Biodata.csproj", "{39A1C231-D541-4673-B5D9-B31C5C64C1B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program Konversi Waktu", "..\Program Konversi Waktu\Program Konversi Waktu\Program Konversi Waktu.csproj", "{3600108E-FC33-45EE-9A7F-50855B03CB88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B8522F-63CC-4D78-B8D0-6C1C502CD0C5}.Debug|x86.ActiveCfg = Debug|x86
+		{34B8522F-63CC-4D78-B8D0-6C1C502CD0C5}.Debug|x86.Build.0 = Debug|x86
+		{34B8522F-63CC-4D78-B8D0-6C1C502CD0C5}.Release|x86.ActiveCfg = Release|x86
+		{34B8522F-63CC-4D78-B8D0-6C1C502CD0C5}.Release|x86.Build.0 = Release|x86
+		{39A1C231-D541-4673-B5D9-B31C5C64C1B1}.Debug|x86.ActiveCfg = Debug|x86
+		{39A1C231-D541-4673-B5D9-B31C5C64C1B1}.Debug|x86.Build.0 = Debug|x86
+		{39A1C231-D541-4673-B5D9-B31C5C64C1B1}.Release|x86.ActiveCfg = Release|x86
+		{39A1C231-D541-4673-B5D9-B31C5C64C1B1}.Release|x86.Build.0 = Release|x86
+		{3600108E-FC33-45EE-9A7F-50855B03CB88}.Debug|x86.ActiveCfg = Debug|x86
+		{3600108E-FC33-45EE-9A7F-50855B03CB88}.Debug|x86.Build.0 = Debug|x86
+		{3600108E-FC33-45EE-9A7F-50855B03CB88}.Release|x86.ActiveCfg = Release|x86
+		{3600108E-FC33-45EE-9A7F-50855B03CB88}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

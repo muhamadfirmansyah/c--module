@@ -1,0 +1,8 @@
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Program Input Biodata\bin\Debug\Program Input Biodata.exe
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Program Input Biodata\bin\Debug\Program Input Biodata.pdb
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Program Input Biodata\obj\x86\Debug\Program Input Biodata.exe
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Program Input Biodata\obj\x86\Debug\Program Input Biodata.pdb
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Program Input Biodata\Program Input Biodata\obj\x86\Debug\Program Input Biodata.exe
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Program Input Biodata\Program Input Biodata\obj\x86\Debug\Program Input Biodata.pdb
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Program Input Biodata\Program Input Biodata\bin\Debug\Program Input Biodata.exe
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Program Input Biodata\Program Input Biodata\bin\Debug\Program Input Biodata.pdb

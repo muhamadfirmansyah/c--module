@@ -1,0 +1,8 @@
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Program Konversi Waktu\bin\Debug\Program Konversi Waktu.exe
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Program Konversi Waktu\bin\Debug\Program Konversi Waktu.pdb
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Program Konversi Waktu\obj\x86\Debug\Program Konversi Waktu.exe
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Program Konversi Waktu\obj\x86\Debug\Program Konversi Waktu.pdb
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Program Konversi Waktu\Program Konversi Waktu\obj\x86\Debug\Program Konversi Waktu.exe
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Program Konversi Waktu\Program Konversi Waktu\obj\x86\Debug\Program Konversi Waktu.pdb
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Program Konversi Waktu\Program Konversi Waktu\bin\Debug\Program Konversi Waktu.exe
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Program Konversi Waktu\Program Konversi Waktu\bin\Debug\Program Konversi Waktu.pdb

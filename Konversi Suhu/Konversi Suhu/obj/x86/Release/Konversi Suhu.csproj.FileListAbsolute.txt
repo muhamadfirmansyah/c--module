@@ -1,0 +1,4 @@
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Konversi Suhu\Konversi Suhu\bin\Release\Konversi Suhu.exe
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Konversi Suhu\Konversi Suhu\bin\Release\Konversi Suhu.pdb
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Konversi Suhu\Konversi Suhu\obj\x86\Release\Konversi Suhu.exe
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Konversi Suhu\Konversi Suhu\obj\x86\Release\Konversi Suhu.pdb

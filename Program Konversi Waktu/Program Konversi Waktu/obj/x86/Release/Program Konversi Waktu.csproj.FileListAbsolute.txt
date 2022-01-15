@@ -1,0 +1,4 @@
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Program Konversi Waktu\Program Konversi Waktu\bin\Release\Program Konversi Waktu.exe
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Program Konversi Waktu\Program Konversi Waktu\bin\Release\Program Konversi Waktu.pdb
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Program Konversi Waktu\Program Konversi Waktu\obj\x86\Release\Program Konversi Waktu.exe
+C:\Users\Firmansyah\Documents\Visual Studio 2010\Projects\Program Konversi Waktu\Program Konversi Waktu\obj\x86\Release\Program Konversi Waktu.pdb

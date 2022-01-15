@@ -1,0 +1,8 @@
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Konversi Suhu\bin\Debug\Konversi Suhu.exe
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Konversi Suhu\bin\Debug\Konversi Suhu.pdb
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Konversi Suhu\obj\x86\Debug\Konversi Suhu.exe
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Konversi Suhu\obj\x86\Debug\Konversi Suhu.pdb
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Konversi Suhu\Konversi Suhu\obj\x86\Debug\Konversi Suhu.exe
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Konversi Suhu\Konversi Suhu\obj\x86\Debug\Konversi Suhu.pdb
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Konversi Suhu\Konversi Suhu\bin\Debug\Konversi Suhu.exe
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Konversi Suhu\Konversi Suhu\bin\Debug\Konversi Suhu.pdb
